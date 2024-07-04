@@ -6,13 +6,11 @@ The additional module, `file_screen.py` demos a file selector application, popul
   For example on Windows, line 27 would appear as:
   
   `for zone in os.listdir("C:\\Windows\\System32"):
-  
       file_list.insert(tkinter.END, zone)`
       
   On Linux, line 27 would appear as:
   
   `for zone in os.listdir("/bin"):
-  
       file_list.insert(tkinter.END, zone)`
 
 
