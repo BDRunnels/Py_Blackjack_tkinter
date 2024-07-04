@@ -4,10 +4,12 @@ This program leverages tkinter to produce an interactive Blackjack casino game i
 The additional module, `file_screen.py` demos a file selector application, populated with files from line 27 `os.listdir("/usr/bin")` on MacOS.
 
   For a Windows directory, line 27 would appear as:
+  
   `for zone in os.listdir("C:\\Windows\\System32"):
       file_list.insert(tkinter.END, zone)`
       
   For a Linux directory, line 27 would appear as:
+  
   `for zone in os.listdir("/bin"):
       file_list.insert(tkinter.END, zone)`
 
