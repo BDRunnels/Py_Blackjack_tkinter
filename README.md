@@ -15,4 +15,5 @@ The additional module, `file_screen.py` demos a file selector application, popul
 
 
 Or a file directory of your choosing.
+
 ![Screenshot 2024-07-04 at 1 09 40 PM](https://github.com/BDRunnels/Py_Blackjack_tkinter/assets/123217905/b2002f1a-2775-4858-955e-fe1fa7fd7f5c)
